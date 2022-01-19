@@ -17,7 +17,7 @@ https://www.gta5-mods.com/tools/texture-toolkit
 
 > **Step 2**
 Download my .yft and .dds files
-https://github.com/Curiosity-GitHub/addon-liveries
+https://github.com/SxmplyCanad1an/addon-liveries
 
 > **Step 3**
 Make your livery.
